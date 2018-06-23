@@ -3,7 +3,7 @@ A well-known Ukrainian traffic rules site has an achievement named “Faster tha
 
 Ex-Soviet theory exam consists of 20 questions, so 1.5 s per question is inhuman. And someone answered in 15 s, 0.75 s per question! That’s why I decided to cheat too.
 
-**Cheating on traffic rules sites is just for your own entertainment and will not give you any advantages except that achievement.** To get a driver’s license, you’ll still need to pass an exam at National Police, and if you cheat, you won’t know much. If some driving school uses that site for internal exam… better prepare, I warned you.
+**Cheating on traffic rules sites is just for your own entertainment and will not give you any advantages except that achievement.** To get a driver’s license, you’ll still need to pass an exam at National Police, and if you cheat, that won’t give you a preparation. If some driving school uses that site for internal exam… better prepare, I warned you.
 
 **NB.** An easier achievement, pass an example in 1 minute, I acquired honestly.
 
