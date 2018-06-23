@@ -11,3 +11,6 @@ Works as a Firefox add-on, tested at 60.0.2 x64.
 To install, type **about:debugging** in address bar, then choose **Load temporary add-on**.
 
 Go to the site, press extension’s button, and all correct answers will be highlighted.
+
+# License
+Public domain. Do whatever you want.
