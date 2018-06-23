@@ -5,6 +5,8 @@ Ex-Soviet theory exam consists of 20 questions, so 1.5 s per question is inhuman
 
 **Cheating on traffic rules sites is just for your own entertainment and will not give you any advantages except that achievement.** To get a driver’s license, you’ll still need to pass an exam at National Police, and if you cheat, you won’t know much. If some driving school uses that site for internal exam… better prepare, I warned you.
 
+**NB.** An easier achievement, pass an example in 1 minute, I acquired honestly.
+
 # How does it work?
 Works as a Firefox add-on, tested at 60.0.2 x64.
 
