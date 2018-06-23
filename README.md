@@ -5,4 +5,9 @@ Ex-soviet theory exam consists of 20 questions, so 1.5 s per question is inhuman
 
 **This cheat is just for your own entertainment.** To get a license, you’ll still need to pass an exam in National Police, and if you cheat, you won’t know much.
 
-Works as a Firefox extension, tested at 60.0.2 x64.
+# How does it work?
+Works as a Firefox add-on, tested at 60.0.2 x64.
+
+To install, type **about:debugging** in address bar, then choose **Load temporary add-on**.
+
+Go to the site, press the button, and all correct quesions will be highlighted.
